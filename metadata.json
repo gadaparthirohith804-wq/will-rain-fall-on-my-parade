@@ -1,0 +1,5 @@
+{
+  "name": "Will It Rain on My Parade?",
+  "description": "An elegant weather application that predicts the probability of rain for a selected location and date. It uses AI to analyze historical weather patterns to provide a forecast, including temperature and weather conditions.",
+  "requestFramePermissions": []
+}
